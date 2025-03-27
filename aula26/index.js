@@ -23,6 +23,8 @@
 // console.log(varParaPegarNumero);
 
 const numeros = [[5, 6, 7], [1, 4, 3], [2, 8, 9]]
-const [lista1, lista2, lista3] = numeros; 
-console.log(lista2[1]);
+const [lista1, lista2, lista3] = numeros;
 
+
+
+console.log(lista2[1]);
